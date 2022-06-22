@@ -1,0 +1,4 @@
+Hello, This repository involves non-commercial practise of creating landing page from the design.
+Design folder contains the layout of the page and font specs, which I used as a guide to build page.
+Index HTML, contains the data, which I changed only two times, firstly I packed on the server all items, and on second edit, I rearranged items for better positioning when using FlexBox.
+Styles.css is little bit overwhelmed, but the result of the FlexBox and over all final result is amazing, Design and outcome are exactly the same.
